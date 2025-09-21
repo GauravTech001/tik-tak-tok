@@ -39,26 +39,6 @@ tic-tac-toe/
    ├─ style.css          # CSS styles & animations
    └─ script.js          # Game logic & AI
 
-🚀 How to Run Locally
-1. Clone the repository
-git clone https://github.com/yourusername/tic-tac-toe-flask.git
-cd tic-tac-toe-flask
-
-2. Create and activate a virtual environment
-python -m venv venv
-# Windows
-venv\Scripts\activate
-# Linux/Mac
-source venv/bin/activate
-
-3. Install dependencies
-pip install -r requirements.txt
-
-4. Run the app
-python app.py
-
-5. Open in browser
-http://127.0.0.1:5000
 
 🔹 How to Play
 
